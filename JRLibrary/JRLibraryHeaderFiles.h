@@ -1,5 +1,5 @@
 //
-//  ESLibraryHeaderFiles.h
+//  JRLibraryHeaderFiles.h
 //  PodsUse
 //
 //  Created by 张景瑞 on 2017/5/15.
@@ -7,8 +7,8 @@
 //
 
 
-#ifndef ESLibraryHeaderFiles_h
-#define ESLibraryHeaderFiles_h
+#ifndef JRLibraryHeaderFiles_h
+#define JRLibraryHeaderFiles_h
 
 #import "MJRefresh.h"
 #import "ESCollectViewController.h"
@@ -58,4 +58,4 @@
 #import "UINavigationBar+Hidden.h"
 #import "UIView+LayerEffects.h"
 
-#endif /* ESLibraryHeaderFiles_h */
+#endif /* JRLibraryHeaderFiles_h */

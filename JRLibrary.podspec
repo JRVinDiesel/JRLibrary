@@ -15,10 +15,10 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/JRVinDiesel/JRLibrary.git", :tag => s.version }
 
 
-  s.source_files  = "JRLibrary/ESLibraryHeaderFiles.h"
+  s.source_files  = "JRLibrary/JRLibraryHeaderFiles.h"
 
 
-  s.public_header_files = "JRLibrary/ESLibraryHeaderFiles.h"
+  s.public_header_files = "JRLibrary/JRLibraryHeaderFiles.h"
 
 
   s.requires_arc = true
